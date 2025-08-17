@@ -1,2 +1,1 @@
-# ABC-bank
-Console-based Bank Management System in Python
+A Python console-based Bank Management System that allows adding and managing customers, viewing individual or all account details, depositing and withdrawing money, and updating customer information efficiently.
